@@ -15,12 +15,12 @@ The `storms` data are built-in to the `dplyr` package..
 
 Get a summary for each variable: 
 ```{r}
-summary(storm)
+summary(storms)
 ```
 
 Look at the variable names: 
 ```{r}
-Names(storm)
+names(storms)
 ```
 
 ## Step 2: Exploratory visualization
